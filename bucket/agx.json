@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/imsaba16/agx/releases/download/v1.0.0-rc.1/agx-windows-x86_64.zip",
-      "hash": "CHANGEME_WINDOWS_ZIP_SHA256"
+      "hash": "f57397fd74649c4f7f7a59fb8010676dbae3ee2c276755aa2c3363be03d070bb"
     }
   },
   "bin": "agx.exe",
